@@ -1,0 +1,13 @@
+SQL queries to upload.
+
+ 
+
+05_marina Fall 2021.pdf  Download 05_marina Fall 2021.pdf 
+
+ 
+
+05_marina.sql.txt  Download 05_marina.sql.txt 
+
+**If any of the statements do not work to create your database or objects, 
+please create those objects within pgadmin. You do not have to use the scripts but you must 
+create all the objects and insert their records that are in the script.
