@@ -1,0 +1,6 @@
+In your Company database, you will need to write a python script with embedded SQL that will create a table named emp_contact_info with columns to include a PK of employee's ssn,  employee phone , employee email. You can choose the data types that are appropriate for these fields.  Then insert the following records into your table:
+
+"888665555", 662.567.8059, keds@gmail.com
+"987654321", 205.648.3339, ocean@yahoo.com
+"999887777", 601.497.3447, bulldog@msstate.edu
+"987987987", 901.978.3989, coffee@gmail.com
